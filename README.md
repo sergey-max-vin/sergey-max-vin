@@ -11,5 +11,7 @@
 ### Connect with me: 
 
 Linkedin: https://www.linkedin.com/in/maksim-sergey/
+<br>
 Instagramm: https://www.linkedin.com/in/maksim-sergey/
+<br>
 vk: https://vk.com/svinnik2017
