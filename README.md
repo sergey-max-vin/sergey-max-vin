@@ -16,4 +16,4 @@ Instagramm: https://www.linkedin.com/in/maksim-sergey/
 <br>
 vk: https://vk.com/svinnik2017
 
-<a target="_blank" rel="nofollow" href="https://ya.ru">Яндекс</a>
+<a target="_blank" rel="nofollow" href="https://vk.com/svinnik2017">vk</a>
