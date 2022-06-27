@@ -1,12 +1,13 @@
 ### Hi there 👋, I'm Sergey
 
-## I'm a beginner web developer
+## I'm a beginner web developer:
 
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for 
-- 🤹🏽 I like to shoot videos for youtube 
+- 💪  Мне нравится писать код;
+- 🎉 Люблю ездить на велосипеде и слушать музыку;
+- 🥅 Постоянно развиваюсь и учусь новому;
+- ⚡  Активно пользуюсь социальными сетями;
+- ⚡ Я веду собственный блог;
+- 🤹🏽 Увлекаюсь любительской фотосьемкой;
 
 ### Connect with me: 
 
