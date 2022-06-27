@@ -8,8 +8,8 @@
 - ⚡ I love writing an article for 
 - 🤹🏽 I like to shoot videos for youtube 
 
-### Connect with me:
+### Connect with me: 
 
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://vk.com/svinnik2017" />][vk]
+Linkedin: https://www.linkedin.com/in/maksim-sergey/
+Instagramm: https://www.linkedin.com/in/maksim-sergey/
+vk: https://vk.com/svinnik2017
