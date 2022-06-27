@@ -10,10 +10,8 @@
 
 ### Connect with me: 
 
-Linkedin: https://www.linkedin.com/in/maksim-sergey/
+<a target="_blank" rel="nofollow" href="https://www.linkedin.com/in/maksim-sergey/">Linkedin</a>
 <br>
-Instagramm: https://www.linkedin.com/in/maksim-sergey/
+<a target="_blank" rel="nofollow" href="https://www.linkedin.com/in/maksim-sergey/">Instagramm</a>
 <br>
-vk: https://vk.com/svinnik2017
-
-<a target="_blank" rel="nofollow" href="https://vk.com/svinnik2017">vk</a>
+<a target="_blank" rel="nofollow" href="https://vk.com/svinnik2017">v kontakte</a>
