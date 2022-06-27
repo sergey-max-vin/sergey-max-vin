@@ -15,3 +15,6 @@ Linkedin: https://www.linkedin.com/in/maksim-sergey/
 Instagramm: https://www.linkedin.com/in/maksim-sergey/
 <br>
 vk: https://vk.com/svinnik2017
+<div class="b-note b-note_outline">
+<P>Хотя своя доля романтизма в бумажных письмах всё же есть;) Но это уже другая история.</P>
+</div>
