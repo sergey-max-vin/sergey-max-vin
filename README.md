@@ -17,10 +17,4 @@
 <br>
 <a target="_blank" rel="nofollow" href="https://vk.com/svinnik2017">v kontakte</a>
  
-### My best work: 
 
-<a target="_blank" rel="nofollow" href="https://sergey-max-vin.github.io/burger-site/">Burger site</a>
-<br>
-<a target="_blank" rel="nofollow" href="https://sergey-max-vin.github.io/Pizza-site/">Pizzeria website</a>
-<br>
-<a target="_blank" rel="nofollow" href="https://sergey-max-vin.github.io/Freelancer-portfolio/">Portfolio website</a>
