@@ -9,7 +9,7 @@
 - ⚡ I run my own blog;
 - 🤹🏽 I am fond of amateur photography;
 
-### Connect with me: 
+### Connect with me:       ### My best work:
 
 <a target="_blank" rel="nofollow" href="https://www.linkedin.com/in/maksim-sergey/">Linkedin</a>
 <br>
