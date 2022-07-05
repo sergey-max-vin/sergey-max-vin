@@ -19,8 +19,8 @@
  
 ### My best work: 
 
-<a target="_blank" rel="nofollow" href="https://www.linkedin.com/in/maksim-sergey/">Burger site</a>
+<a target="_blank" rel="nofollow" href="https://sergey-max-vin.github.io/burger-site/">Burger site</a>
 <br>
-<a target="_blank" rel="nofollow" href="https://www.instagram.com/invites/contact/?i=nlqn9w8eudsb&utm_content=adbpw1e">Pizzeria website</a>
+<a target="_blank" rel="nofollow" href="https://sergey-max-vin.github.io/Pizza-site/">Pizzeria website</a>
 <br>
-<a target="_blank" rel="nofollow" href="https://vk.com/svinnik2017">Portfolio website</a>
+<a target="_blank" rel="nofollow" href="https://sergey-max-vin.github.io/Freelancer-portfolio/">Portfolio website</a>
